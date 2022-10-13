@@ -32,6 +32,11 @@ Next print the list in your componenet and render it.
 
   - Quality of The Code, use of Best Practices.
   - Efficiency of Code.
+  - Familiarity with the Frameworks.
+  - Readability of Code.
+  - Documentation of Code.
+
+
 
 
 Feel Free to email us if you have any queries regarding this Project. Happy Coding ! :wave:
